@@ -1,0 +1,35 @@
+.hexo-stellar-normalizer-modal {
+  max-width: 760px;
+}
+
+.hexo-stellar-normalizer-summary {
+  margin: 0 0 12px;
+  color: var(--text-muted);
+}
+
+.hexo-stellar-normalizer-list {
+  margin: 12px 0;
+  padding-left: 22px;
+}
+
+.hexo-stellar-normalizer-list li {
+  margin: 6px 0;
+}
+
+.hexo-stellar-normalizer-actions {
+  display: flex;
+  gap: 8px;
+  justify-content: flex-end;
+  margin-top: 18px;
+}
+
+.hexo-stellar-normalizer-code {
+  display: block;
+  max-height: 280px;
+  overflow: auto;
+  padding: 12px;
+  border-radius: 8px;
+  background: var(--background-secondary);
+  color: var(--text-normal);
+  white-space: pre-wrap;
+}
